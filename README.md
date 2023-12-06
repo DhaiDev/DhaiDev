@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](Bottom_up.svg)
 
 <!--   my-icons -->
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <!--   my-header-img -->
-![](./src/header_.png)
+![](header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" align="right" height="48" width="48" >
 
