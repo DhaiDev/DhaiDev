@@ -16,7 +16,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" align="right" height="48" width="48" >
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Dai;+Welcome+to+My+Profile!;Over+2+years+plus+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Dai;+Welcome+to+My+Profile!;Over+2+years+plus+of+programming+experience;Always+learning+new+things+;Programming+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 
 
