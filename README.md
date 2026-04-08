@@ -90,7 +90,7 @@ RDS · S3 · CloudFront · Secrets Manager · SQS · SNS · Lambda · IAM · Rou
 
 ## 🎯 What I am working on
 
-- 🏢 **SaaS platform** — currently in Beta 1.0.0.0
+- 🏢 An **enterprise SaaS platform**
 - 📱 Companion mobile app
 - 🤖 AI Agent integration via MCP
 - ⏱ Third-party system integrations
