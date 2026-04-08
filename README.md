@@ -23,7 +23,6 @@ Full-stack engineer who **ships products end-to-end** — backend, frontend, mob
 
 Comfortable jumping across domains: business SaaS, AI / chatbot platforms, manufacturing / MES, IoT data acquisition, line-of-business integrations, internal tooling, and system utilities. If it ships and someone uses it, I have probably touched something like it.
 
-- 🚀 Just shipped **Beta 1.0.0.0** of an enterprise SaaS product
 - 🏗️ Designs for scale: distributed caching, background jobs, real-time notifications, background workers
 - 🔒 Security-first mindset — RBAC, access-right matrices, secrets manager, IAM separation
 - 🔌 Loves wiring things together — APIs, message queues, third-party SDKs, hardware bridges
