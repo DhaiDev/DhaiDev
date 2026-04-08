@@ -13,7 +13,7 @@
 <a href="https://www.postgresql.org/"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" align="right" height="48" width="48"></a>
 
 <!-- ============== TYPING ANIMATION ============== -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Dai;Full-Stack+Engineer+%7C+SaaS+Builder+%7C+System+Architect;Building+production-grade+multi-tenant+SaaS;5%2B+years+shipping+real+products;C%23+.NET+8+%E2%80%A2+React+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS;Always+learning+%E2%80%A2+Always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Dai;Full-Stack+Engineer+%7C+SaaS+Builder+%7C+System+Architect;Building+production-grade+multi-tenant+SaaS;4%2B+years+shipping+real+products;C%23+.NET+8+%E2%80%A2+React+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS;Always+learning+%E2%80%A2+Always+shipping)](https://git.io/typing-svg)
 
 ---
 
