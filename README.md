@@ -19,14 +19,15 @@
 
 ## 🧠 About Me
 
-I build, ship, and maintain **production SaaS systems end-to-end** — from PostgreSQL schema design and ASP.NET Core APIs all the way through React frontends, AWS infra, and CI/CD.
+Full-stack engineer who **ships products end-to-end** — backend, frontend, mobile, database, cloud infra, and the occasional embedded / IoT detour.
 
-Currently architecting and shipping **multi-tenant SaaS platforms** end-to-end — covering complex business workflows, role-based access control, real-time features, background processing, and rich reporting.
+Comfortable jumping across domains: business SaaS, AI / chatbot platforms, manufacturing / MES, IoT data acquisition, line-of-business integrations, internal tooling, and system utilities. If it ships and someone uses it, I have probably touched something like it.
 
 - 🚀 Just shipped **Beta 1.0.0.0** of an enterprise SaaS product
-- 🏗️ Designing for scale: multi-tenant isolation, distributed caching, background jobs, real-time notifications
+- 🏗️ Designs for scale: distributed caching, background jobs, real-time notifications, background workers
 - 🔒 Security-first mindset — RBAC, access-right matrices, secrets manager, IAM separation
-- 📦 Comfortable across the stack: backend, frontend, database, cloud, DevOps
+- 🔌 Loves wiring things together — APIs, message queues, third-party SDKs, hardware bridges
+- 📦 Comfortable across the entire stack: backend, frontend, mobile, database, cloud, DevOps, embedded
 
 ---
 
@@ -38,6 +39,7 @@ Currently architecting and shipping **multi-tenant SaaS platforms** end-to-end �
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Backend**
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -89,7 +91,7 @@ RDS · S3 · CloudFront · Secrets Manager · SQS · SNS · Lambda · IAM · Rou
 
 ## 🎯 What I am working on
 
-- 🏢 **Multi-tenant SaaS platform** — currently in Beta 1.0.0.0
+- 🏢 **SaaS platform** — currently in Beta 1.0.0.0
 - 📱 Companion mobile app
 - 🤖 AI Agent integration via MCP
 - ⏱ Third-party system integrations
