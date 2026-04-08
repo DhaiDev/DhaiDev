@@ -21,7 +21,7 @@
 
 I build, ship, and maintain **production SaaS systems end-to-end** — from PostgreSQL schema design and ASP.NET Core APIs all the way through React frontends, AWS infra, and CI/CD.
 
-Currently architecting and shipping **multi-tenant payroll & HR platforms** for the Malaysian market, including statutory compliance (EPF, SOCSO, EIS, PCB), payroll engine, leave/claim workflows, attendance integration, and DevExpress-powered reporting.
+Currently architecting and shipping **multi-tenant SaaS platforms** end-to-end — covering complex business workflows, role-based access control, real-time features, background processing, and rich reporting.
 
 - 🚀 Just shipped **Beta 1.0.0.0** of an enterprise payroll SaaS
 - 🏗️ Designing for scale: multi-tenant isolation, distributed caching, background jobs, real-time notifications
@@ -89,11 +89,11 @@ RDS · S3 · CloudFront · Secrets Manager · SQS · SNS · Lambda · IAM · Rou
 
 ## 🎯 What I am working on
 
-- 🏢 **Multi-tenant SaaS Payroll & HR platform** — currently in Beta 1.0.0.0
-- 📑 Statutory reporting modules (EA Form, CP8D, Borang E, EPF/SOCSO/EIS/PCB submissions)
-- 📱 Mobile app for employees (payslip, leave, claim)
-- 🤖 HR AI Agent — MCP-powered assistant
-- ⏱ Attendance system integration
+- 🏢 **Multi-tenant SaaS platform** — currently in Beta 1.0.0.0
+- 📱 Companion mobile app
+- 🤖 AI Agent integration via MCP
+- ⏱ Third-party system integrations
+- 📊 Advanced reporting modules
 
 ---
 
