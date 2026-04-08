@@ -23,7 +23,7 @@ I build, ship, and maintain **production SaaS systems end-to-end** — from Post
 
 Currently architecting and shipping **multi-tenant SaaS platforms** end-to-end — covering complex business workflows, role-based access control, real-time features, background processing, and rich reporting.
 
-- 🚀 Just shipped **Beta 1.0.0.0** of an enterprise payroll SaaS
+- 🚀 Just shipped **Beta 1.0.0.0** of an enterprise SaaS product
 - 🏗️ Designing for scale: multi-tenant isolation, distributed caching, background jobs, real-time notifications
 - 🔒 Security-first mindset — RBAC, access-right matrices, secrets manager, IAM separation
 - 📦 Comfortable across the stack: backend, frontend, database, cloud, DevOps
@@ -70,7 +70,6 @@ RDS · S3 · CloudFront · Secrets Manager · SQS · SNS · Lambda · IAM · Rou
 **Auth & Integrations**
 ![Firebase](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
-![DevExpress](https://img.shields.io/badge/DevExpress%20Reporting-FF7200?style=flat)
 
 ---
 
@@ -99,4 +98,4 @@ RDS · S3 · CloudFront · Secrets Manager · SQS · SNS · Lambda · IAM · Rou
 
 ## 💬 Get in touch
 
-> Always open to interesting conversations about system design, SaaS architecture, payroll/HR domain, or just shipping software well.
+> Always open to interesting conversations about system design, SaaS architecture, distributed systems, or just shipping software well.
